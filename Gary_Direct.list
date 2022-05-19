@@ -1,1 +1,8 @@
+# NAME: Gary Direct
 
+#Plex
+DOMAIN-SUFFIX,plex.direct
+
+#OpenVPN
+SRC-PORT,62416,DIRECT
+DST-PORT,62416,DIRECT
