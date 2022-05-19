@@ -1,14 +1,14 @@
 # NAME: Gary Custom
-- DOMAIN-SUFFIX,independent.co.uk
-- DOMAIN-SUFFIX,expressvpn.com
-- DOMAIN-SUFFIX,linkedin.com
-- DOMAIN-SUFFIX,msftconnecttest.com
-- DOMAIN-SUFFIX,signal.org
-- DOMAIN-SUFFIX,dell.com
-- DOMAIN-SUFFIX,dw.com
-- DOMAIN-SUFFIX,blacked.com
-- DOMAIN-SUFFIX,yahoo.com
-- DOMAIN-SUFFIX,imdb.com
-- DOMAIN-SUFFIX,thetvdb.com
-- DOMAIN-SUFFIX,zoom.us
-- DOMAIN-SUFFIX,myporn.club
+DOMAIN-SUFFIX,independent.co.uk
+DOMAIN-SUFFIX,expressvpn.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,dell.com
+DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,blacked.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,myporn.club
