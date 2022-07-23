@@ -14,8 +14,10 @@ DOMAIN,profile.gc.apple.com
 DOMAIN,api-edge.apps.apple.com
 DOMAIN,certs.apple.com
 DOMAIN,api-edge.apps.apple.com
-
-
+DOMAIN,api.ipify.org
+DOMAIN-SUFFIX,digicert.cn
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,api.skk.moe
 
 
 ## Mac App Store
