@@ -4,14 +4,18 @@
 ## Apple Global CDN
 ## iOS App Store
 DOMAIN,iosapps.itunes.apple.com
-DOMAIN,apps.mzstatic.com
 DOMAIN,ioshost.qtlcdn.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,amp-api-edge.apps.apple.com
 DOMAIN,apptrailers.itunes.apple.com
-DOMAIN,play.itunes.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN,gsa.apple.com
 DOMAIN,profile.gc.apple.com
+DOMAIN,api-edge.apps.apple.com
+DOMAIN,certs.apple.com
+DOMAIN,api-edge.apps.apple.com
+
+
 
 
 ## Mac App Store
