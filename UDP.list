@@ -1,4 +1,5 @@
 # NAME: UDP
+SCRIPT,udp_traffic
 #DOMAIN-SUFFIX,3gppnetwork.org
 #DOMAIN-SUFFIX,9.rarbg.me
 #DOMAIN-SUFFIX,9.rarbg.to
