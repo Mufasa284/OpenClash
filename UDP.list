@@ -1,9 +1,9 @@
 # NAME: UDP
-SCRIPT,udp_traffic
+#SCRIPT,udp_traffic
 #DOMAIN-SUFFIX,3gppnetwork.org
-#DOMAIN-SUFFIX,9.rarbg.me
-#DOMAIN-SUFFIX,9.rarbg.to
-#DOMAIN-SUFFIX,9.rarbg.com
-#DOMAIN-KEYWORD,tracker
-#DOMAIN-SUFFIX,spotify.com
-#DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,9.rarbg.me
+DOMAIN-SUFFIX,9.rarbg.to
+DOMAIN-SUFFIX,9.rarbg.com
+DOMAIN-KEYWORD,tracker
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,googlevideo.com
