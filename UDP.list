@@ -4,7 +4,7 @@
 DOMAIN-SUFFIX,3gppnetwork.org
 
 # Torrent Trackers
-# DOMAIN-SUFFIX,9.rarbg.me
-# DOMAIN-SUFFIX,9.rarbg.to
-# DOMAIN-SUFFIX,9.rarbg.com
-# DOMAIN-KEYWORD,tracker
+##DOMAIN-SUFFIX,9.rarbg.me
+##DOMAIN-SUFFIX,9.rarbg.to
+##DOMAIN-SUFFIX,9.rarbg.com
+##DOMAIN-KEYWORD,tracker
