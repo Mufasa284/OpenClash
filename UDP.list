@@ -1,6 +1,9 @@
 # NAME: UDP
-#SCRIPT,udp_traffic
-#DOMAIN-SUFFIX,3gppnetwork.org
+
+# WiFi Calling
+DOMAIN-SUFFIX,3gppnetwork.org
+
+# Torrent Trackers
 DOMAIN-SUFFIX,9.rarbg.me
 DOMAIN-SUFFIX,9.rarbg.to
 DOMAIN-SUFFIX,9.rarbg.com
