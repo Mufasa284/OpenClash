@@ -1,4 +1,5 @@
 # NAME: Gary Proxy
+
 DOMAIN-SUFFIX,independent.co.uk
 DOMAIN-SUFFIX,expressvpn.com
 DOMAIN-SUFFIX,linkedin.com
@@ -43,3 +44,7 @@ DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,geforce.com
+DOMAIN-SUFFIX,verisign.com
+DOMAIN-SUFFIX,nvidiagrid.net
+DOMAIN-SUFFIX,cwfservice.net
