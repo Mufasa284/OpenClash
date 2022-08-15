@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,plex.direct
 #OpenVPN
 SRC-PORT,62416
 DST-PORT,62416
+DOMAIN-SUFFIX,garysimona.hopto.org
+DOMAIN-SUFFIX,pingxiaoming.hopto.org
 
 #Baird
 DOMAIN-SUFFIX,bairdasia.com.cn
