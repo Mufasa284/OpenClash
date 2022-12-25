@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,myporn.club
-DOMAIN-SUFFIX,plex.tv
+#DOMAIN-SUFFIX,plex.tv
 DOMAIN-KEYWORD,rarbg
 DOMAIN-SUFFIX,tracker.opentrackr.org
 DOMAIN-SUFFIX,tracker.torrent.eu.org
