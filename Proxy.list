@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,cz
 DOMAIN-SUFFIX,de
 
+#Plex
+DOMAIN-SUFFIX,plex.tv
+
 # GFW list
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,000webhost.com
