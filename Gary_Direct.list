@@ -3,6 +3,7 @@
 #Plex
 DOMAIN-SUFFIX,plex.direct
 DST-PORT,32400
+DOMAIN-SUFFIX,v4.plex.tv
 
 #OpenVPN
 SRC-PORT,62416
