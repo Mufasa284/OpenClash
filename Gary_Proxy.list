@@ -1,5 +1,7 @@
 # NAME: Gary Proxy
 
+DOMAIN-SUFFIX,gstatic.com
+
 #DOMAIN-SUFFIX,independent.co.uk
 #DOMAIN-SUFFIX,expressvpn.com
 #DOMAIN-SUFFIX,linkedin.com
@@ -21,8 +23,6 @@
 #DOMAIN-KEYWORD,bing
 #DOMAIN-SUFFIX,exitgames.com
 #DOMAIN-KEYWORD,google
-#DOMAIN-SUFFIX,gstatic.com
-#DOMAIN-SUFFIX,gstatic.com
 #DOMAIN-SUFFIX,gvt2.com
 #DOMAIN-SUFFIX,doubleclick.net
 #DOMAIN-SUFFIX,xpressunblock.com
