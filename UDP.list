@@ -3,6 +3,9 @@
 # WiFi Calling
 DOMAIN-SUFFIX,3gppnetwork.org
 
+#Youtube QUIC
+DOMAIN-SUFFIX,googlevideo.com
+
 # Torrent Trackers
 DOMAIN-SUFFIX,9.rarbg.me
 DOMAIN-SUFFIX,9.rarbg.to
