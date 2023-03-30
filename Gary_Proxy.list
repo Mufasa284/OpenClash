@@ -6,6 +6,24 @@ DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,googletagmanager
 
+#IPTV
+IP-CIDR,111.59.189.40/32,no-resolve
+IP-CIDR,123.51.230.124/32,no-resolve
+IP-CIDR,124.238.99.44/32,no-resolve
+IP-CIDR,159.75.85.63/32,no-resolve
+IP-CIDR,198.16.64.10/32,no-resolve
+IP-CIDR,202.175.127.77/32,no-resolve
+IP-CIDR,202.69.67.66/32,no-resolve
+IP-CIDR,210.210.155.37/32,no-resolve
+IP-CIDR,218.202.220.2/32,no-resolve
+IP-CIDR,23.237.10.66/32,no-resolve
+IP-CIDR,38.64.72.148/32,no-resolve
+IP-CIDR,50.7.168.234/32,no-resolve
+IP-CIDR,50.7.220.74/32,no-resolve
+IP-CIDR,61.216.67.119/32,no-resolve
+
+
+
 #DOMAIN-SUFFIX,independent.co.uk
 #DOMAIN-SUFFIX,expressvpn.com
 #DOMAIN-SUFFIX,linkedin.com
