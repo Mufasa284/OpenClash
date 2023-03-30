@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,googletagmanager
+DOMAIN-SUFFIX,spotify.com
 
 #IPTV
 IP-CIDR,111.59.189.40/32,no-resolve
