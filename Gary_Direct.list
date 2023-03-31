@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,v4.plex.tv
 SRC-PORT,62416
 DST-PORT,62416
 
-#Baird
+#DDNS
 DOMAIN-SUFFIX,garysimona.hopto.org
 
 #Baird
