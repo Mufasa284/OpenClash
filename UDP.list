@@ -10,6 +10,3 @@ DOMAIN-SUFFIX,9.rarbg.com
 
 # DOMAIN-KEYWORD,tracker
 DST-PORT,8801
-
-# Script
-SCRIPT,udp_traffic,no-resolve
