@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,garysimona.hopto.org
 
 #Baird
 DOMAIN-SUFFIX,bairdasia.com.cn
+DST-PORT,4443
+
 
 #Misc.
 DOMAIN-SUFFIX,ultramobile.com
