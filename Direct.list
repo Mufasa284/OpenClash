@@ -1,5 +1,8 @@
 # NAME: Direct
 
+#Expansion
+DOMAIN-SUFFIX,wuuxiang.com
+
 # Router management
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
