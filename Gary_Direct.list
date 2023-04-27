@@ -11,6 +11,7 @@ DST-PORT,62416
 
 #DDNS
 DOMAIN-SUFFIX,garysimona.hopto.org
+DOMAIN-SUFFIX,no-ip.com
 
 #Baird
 DOMAIN-SUFFIX,bairdasia.com.cn
