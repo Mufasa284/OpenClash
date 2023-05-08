@@ -2,8 +2,8 @@
 
 #Plex
 DOMAIN-SUFFIX,plex.direct
-DST-PORT,32400
 DOMAIN-SUFFIX,v4.plex.tv
+DST-PORT,32400
 
 #OpenVPN
 SRC-PORT,62416
@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,garysimona.hopto.org
 #Baird
 DOMAIN-SUFFIX,bairdasia.com.cn
 DST-PORT,4443
-
 
 #Misc.
 DOMAIN-SUFFIX,ultramobile.com
